@@ -1,0 +1,14 @@
+{
+  "name": "node-levenshtein-and-damerau-levenshtein",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "author": "Juan Manuel Vicente <juanma.v82@gmail.com> (https://www.linkedin.com/in/juanmav/)",
+  "license": "Unlicense",
+  "devDependencies": {
+    "tape": "^4.12.0"
+  }
+}
