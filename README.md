@@ -44,3 +44,12 @@ const distance = require('../index');
 let d = distance('axe', 'aex', false);
 console.log(d) // 2
 ```
+
+## To run tests and/or fix something
+
+```shell script
+git clone https://github.com/juanmav/node-levenshtein-and-damerau-levenshtein
+cd node-levenshtein-and-damerau-levenshtein
+npm install
+npm test
+```
